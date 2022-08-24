@@ -1,0 +1,17 @@
+.Container {
+  text-align: center;
+  border-color: pink;
+  border: solid 1px;
+  background-color: pink;
+  min-width: 200vh;
+  min-height: 90vh;
+
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+/* =========== */

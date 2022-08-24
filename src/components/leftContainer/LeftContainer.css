@@ -1,0 +1,38 @@
+.LeftContainer {
+  border: 2px solid;
+  width: 59%;
+  height: 99%;
+
+  display: flex;
+  flex-direction: column;
+}
+/* ------------------ */
+.DivUser {
+  padding: 5px;
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+}
+.DivPicture {
+  width: 40%;
+  height: 40%;
+}
+.UserIcon {
+  width: 100%;
+  height: 100%;
+  border: solid 1px;
+  border-radius: 50%;
+}
+/* ------------------ */
+.DivTitle {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+}
+/* ------------------ */
+.DivText {
+  padding: 5px;
+  border: 1px solid black;
+}
