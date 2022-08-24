@@ -11,10 +11,10 @@ function LeftContainer() {
           </div>
 
           <div className="DivTitle">
-            <h1>Professional Name</h1>
-            <p>Psicologist Name</p>
-            <p>Estrelas Name</p>
-            <p>Valor Dinheiro Name</p>
+            <p className="pTitle">Professional Name</p>
+            <p className="pName">Psicologist Name</p>
+            <p className="pStars">Estrelas Name</p>
+            <p className="pMoney">Valor Dinheiro Name</p>
           </div>
         </div>
 
@@ -25,7 +25,7 @@ function LeftContainer() {
             lorem ipsum Lorem isum dolor lorem ipsum dolor lorem ipsum Lorem
             isum dolor lorem ipsum dolor lorem ipsum Lorem isum dolor lorem
             ipsum dolor lorem ipsum Lorem isum dolor lorem ipsum dolor lorem
-            ipsum
+            ipsum Lorem isum dolor
           </p>
         </div>
       </div>
