@@ -21,18 +21,37 @@
 .UserIcon {
   width: 100%;
   height: 100%;
-  border: solid 1px;
   border-radius: 50%;
 }
 /* ------------------ */
 .DivTitle {
+  margin-left: 20px;
+  margin-bottom: -100px;
   width: 100%;
   height: 50%;
   display: flex;
   flex-direction: column;
 }
+.pTitle {
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  align-self: flex-start;
+  margin-top: -5px;
+}
+.pName {
+  align-self: flex-start;
+  margin-top: -5px;
+}
+.pStars {
+  align-self: flex-start;
+  margin-top: -5px;
+}
+.pMoney {
+  align-self: flex-start;
+  margin-top: -5px;
+}
 /* ------------------ */
 .DivText {
   padding: 5px;
-  border: 1px solid black;
 }
