@@ -40,6 +40,8 @@
   margin-top: -5px;
 }
 .pName {
+  display: flex;
+  flex-direction: row;
   align-self: flex-start;
   margin-top: -5px;
 }
