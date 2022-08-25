@@ -1,5 +1,6 @@
 import userIcon from "../../assets/userIcon.jpg";
 import "./LeftContainer.css";
+import Stars from "./starRating/starRating";
 
 function LeftContainer() {
   return (
@@ -12,8 +13,10 @@ function LeftContainer() {
 
           <div className="DivTitle">
             <p className="pTitle">Professional Name</p>
-            <p className="pName">Psicologist Name</p>
-            <p className="pStars">Estrelas Name</p>
+            <p className="pStars">
+              <Stars />
+            </p>
+            <p className="pName">Psicologist | Lisbon</p>
             <p className="pMoney">Valor Dinheiro Name</p>
           </div>
         </div>
