@@ -46,6 +46,8 @@
   margin-top: -5px;
 }
 .pStars {
+  display: flex;
+  flex-direction: row;
   align-self: flex-start;
   margin-top: -5px;
 }

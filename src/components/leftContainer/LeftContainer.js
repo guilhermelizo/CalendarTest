@@ -13,10 +13,10 @@ function LeftContainer() {
 
           <div className="DivTitle">
             <p className="pTitle">Professional Name</p>
+            <p className="pName">Psicologist | Lisbon</p>
             <p className="pStars">
               <Stars />
             </p>
-            <p className="pName">Psicologist | Lisbon</p>
             <p className="pMoney">Valor Dinheiro Name</p>
           </div>
         </div>
